@@ -1,6 +1,6 @@
 # Real Time Bus Tracker
 
-This project will show the real time location of different buses in boston
+This project will show the real time location of different buses in Boston
 
 ## How to run:
 
