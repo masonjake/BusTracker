@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Map App</title>
+		<meta
+			name="viewport"
+			content="initial-scale=1,maximum-scale=1,user-scalable=no"
+		/>
+		<link href="./styles.css" rel="stylesheet" />
+		<script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+		<link
+			href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css"
+			rel="stylesheet"
+		/>
+	</head>
+	<body>
+		<div id="container">
+			<h1>Map of Boston</h1>
+			<!-- <img id="bus" src="./bus.png" /> -->
+			<div id="map"></div>
+			<div id="border">
+				<!-- <div id="border-break"></div> -->
+			</div>
+			<button onclick="makeMarkers()">Show bus locations</button>
+		</div>
+	</body>
+	<script type="module" src="./mapanimation.js"></script>
+</html>
