@@ -1,11 +1,6 @@
 # Real Time Bus Tracker
 
-This project will does the following:
-
-- When the button is clicked it will show the real time location of different buses in boston
-
-2.
-3. Also, there will be routing features coming soon. The route the bus is heading will be shown when the marker is clicked.
+This project will show the real time location of different buses in boston
 
 ## How to run:
 
