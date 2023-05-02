@@ -1,6 +1,6 @@
 # Real Time Bus Tracker
 
-This project will show the real time location of different buses in Boston
+This project will show the real time location of different buses in Boston.  This project uses the mapbox api to create a map. It then takes the information from the Boston MTA and maps out the coordinates of the buses on the map.  The function is called recursively so the location is constantly updating.
 
 ## How to run:
 
